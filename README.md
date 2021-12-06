@@ -1,4 +1,12 @@
-# GUESS THE LOCATION: CSUN EDITION
+# GUESS THE LOCATION: CSUN EDITION  
+
+## Techbology
+Google Cloud Platform  
+Google Maps Javascript API  
+Javascript  
+CSS  
+HTML  
+
 ## Screenshots  
 ![image](https://github.com/kyledeguzmanx/fDev-website-guessLocation/blob/main/images/screen1.png)  
 ![image](https://github.com/kyledeguzmanx/fDev-website-guessLocation/blob/main/images/screen2.png)  
