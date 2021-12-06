@@ -50,7 +50,6 @@ function initMap() {
      
      let latitude = mapsMouseEvent.latLng.lat();
      let longitude = mapsMouseEvent.latLng.lng();
-      alert("long: " + latitude + "\nlat:" + longitude);
      
      verifyAnswer(latitude, longitude);
      numClicks++;
@@ -85,15 +84,6 @@ function verifyAnswer(lat,lng){
     if(numClicks == 0){
       
       valid = lng>= placeJA.west && lng <= placeJA.east && lat>= placeJA.south && lat <= placeJA.north ? true : false;
-      
-      /*alert(
-        "lat: " + lat + 
-        "long: " + lng + 
-        "west: " + placeJA.west +
-        "east: " + placeJA.east + 
-        "north: " + placeJA.north + 
-        "south: " + placeJA.south 
-      );*/
       color = valid ? green : red;
       const rectangle = new google.maps.Rectangle({
         strokeColor: color,
