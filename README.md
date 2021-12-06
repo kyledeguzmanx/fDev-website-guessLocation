@@ -2,11 +2,11 @@
 The user is presented a blank map provided by Google Maps. The map is cenetered at the heart of the California State University of Norrthridge campus. The objective of the game is simple: guess the location of the mentioned building. The user must double click a location on the map to make their guesss. Once the user makes their a guess, the building's location will be revealed and highlighted. If the guess is correct, the highlighed region will be green. Otherwise, the highlighted region will be red. 
 
 ## Technology
-Google Cloud Platform  
-Google Maps Javascript API  
-Javascript  
-CSS  
-HTML  
+- Google Cloud Platform  
+- Google Maps Javascript API  
+- Javascript  
+- CSS  
+- HTML  
 
 ## Features  
 - Google Map Embed  
