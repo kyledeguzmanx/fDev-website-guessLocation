@@ -9,9 +9,9 @@ The user is presented a blank map provided by Google Maps. The map is cenetered 
 - HTML  
 
 ## Features  
-- Google Map Embed  
 - Custom and Static Google Map Embed  
-- Google Maps Javascript APIs Shapes  
+- Guess Location with Double Click on Map
+- True Location Displayed with Google Maps Javascript APIs Shapes
 
 ## Screenshots  
 ![image](https://github.com/kyledeguzmanx/fDev-website-guessLocation/blob/main/images/screen1.png)  
